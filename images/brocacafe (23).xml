@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Broca de Cafe</folder>
+	<filename>brocacafe (23).jpg</filename>
+	<path>C:\Users\Julio Ríos\Desktop\Plagas de Café\Broca de Cafe\brocacafe (23).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1041</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>broca de cafe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>207</ymin>
+			<xmax>995</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+</annotation>

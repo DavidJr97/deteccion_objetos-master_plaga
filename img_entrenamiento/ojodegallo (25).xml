@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ojo de Gallo</folder>
+	<filename>ojodegallo (25).jpg</filename>
+	<path>C:\Users\Julio Ríos\Desktop\Plagas de Café\Ojo de Gallo\ojodegallo (25).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ojo de gallo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>57</ymin>
+			<xmax>101</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

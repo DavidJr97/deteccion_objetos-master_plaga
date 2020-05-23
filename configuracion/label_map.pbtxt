@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'broca de cafe'
+}
+
+item {
+  id: 2
+  name: 'roya'
+}
+
+item {
+  id: 3
+  name: 'mal de hilachas'
+}
+
+item {
+  id: 4
+  name: 'ojo de gallo'
+}
+
+item {
+  id: 5
+  name: 'pudricion radicular'
+}
+
+item {
+  id: 6
+  name: 'mano'
+}

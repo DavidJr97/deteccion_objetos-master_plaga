@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pudrición Radicular</folder>
+	<filename>pudricion radicular (21).jpg</filename>
+	<path>C:\Users\Julio Ríos\Desktop\Plagas de Café\Pudrición Radicular\pudricion radicular (21).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pudricion radicular</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>40</ymin>
+			<xmax>754</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Roya</folder>
+	<filename>roya (18).jpg</filename>
+	<path>C:\Users\Julio Ríos\Desktop\Plagas de Café\Roya\roya (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>693</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>153</ymin>
+			<xmax>410</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>4</ymin>
+			<xmax>453</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

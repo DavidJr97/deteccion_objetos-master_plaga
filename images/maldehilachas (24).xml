@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mal de Hilachas</folder>
+	<filename>maldehilachas (24).jpg</filename>
+	<path>C:\Users\Julio Ríos\Desktop\Plagas de Café\Mal de Hilachas\maldehilachas (24).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mal de hilachas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>4</ymin>
+			<xmax>225</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
