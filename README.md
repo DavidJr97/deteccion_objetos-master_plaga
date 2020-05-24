@@ -7,6 +7,9 @@ Detección de objetos: Algoritmo el cual se encarga de detectar varios elementos
 Para poder llevar a cabo este tutorial en tu totalidad es importante tener lo siguiente en nuestra computadora.
 
  
+ # Importante: Antes de Continuar Descargar la Carpeta Modelo y Modelo_congelado y pegar las mismas en el Proyecto 
+
+ Link para descargar Carpetas: https://drive.google.com/drive/folders/147lHI-lQTaTjtrpEbMEt6hIEo3ZjAtkd?usp=sharing
 
 - Python 3.6
 - Tensorflow 1.14
