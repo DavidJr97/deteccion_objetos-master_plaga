@@ -280,3 +280,14 @@ LISTO! Ya tenemos nuestras imágenes con predicciones.
 A continuación se muestra en la Tabla I el detalle de cada versión especificando el commit y su descripción de la funcionalidad incluida.
 
 
+# Detección de Plagas en Cultivo de Café con Modelo a entrenado.
+! [brocacafe- 2 ] ( https: // user-
+images.githubusercontent.com/36302181/82742866-59d70700-9d20-
+11ea-8d3a-b10ec8b47b8c.jpeg)
+! [ojodegallo- 1 ] ( https://user-images.githubusercontent.com/36302181/82742867-5b083400-9d20-11ea-8710-fb54e8cc2ddf.jpeg
+)
+! [roya- 1 ] ( https://user-images.githubusercontent.com/36302181/82742868-5c396100-9d20-
+11ea-8211-7b9584650ff9.jpeg)
+! [roya- 2 ] ( https://user-images.githubusercontent.com/36302181/82742869-5c396100-9d20-
+11ea-9dc2-f6a0e98e8bb2.jpeg)
+
