@@ -281,6 +281,5 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 
 
 # Detección de Plagas en Cultivo de Café con Modelo a entrenado.
-! [brocacafe- 2 ] ( https: // user-mages.githubusercontent.com/36302181/82742866-59d70700-9d2011ea-8d3a-b10ec8b47b8c.jpeg)
 
 
