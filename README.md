@@ -279,7 +279,3 @@ LISTO! Ya tenemos nuestras imágenes con predicciones.
 
 A continuación se muestra en la Tabla I el detalle de cada versión especificando el commit y su descripción de la funcionalidad incluida.
 
-
-# Detección de Plagas en Cultivo de Café con Modelo a entrenado.
-
-
