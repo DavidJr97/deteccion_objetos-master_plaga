@@ -289,8 +289,17 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 
 # Detección de Plagas en Cultivo de Café con Modelo a entrenado.
 
-1. ![ojodegallo]( https://user-images.githubusercontent.com/36302181/82742867-5b083400-9d20-11ea-8710-fb54e8cc2ddf.jpeg)
-2. ![roya]( https://user-images.githubusercontent.com/36302181/82742868-5c396100-9d20-11ea-8211-7b9584650ff9.jpeg)
-3. ![roya]( https://user-images.githubusercontent.com/36302181/82742869-5c396100-9d20-11ea-9dc2-f6a0e98e8bb2.jpeg)
+ ![ojodegallo]( https://user-images.githubusercontent.com/36302181/82742867-5b083400-9d20-11ea-8710-fb54e8cc2ddf.jpeg)
+ ![roya]( https://user-images.githubusercontent.com/36302181/82742868-5c396100-9d20-11ea-8211-7b9584650ff9.jpeg)
+ ![roya]( https://user-images.githubusercontent.com/36302181/82742869-5c396100-9d20-11ea-9dc2-f6a0e98e8bb2.jpeg)
+
+
+# Detección con Mejoramiento de la predicción.
+
+![pudricion-radicular-_14__1](https://user-images.githubusercontent.com/36302181/83339013-f2243d00-a286-11ea-9707-d8ccc5f026e3.jpeg)
+![roya-_42_](https://user-images.githubusercontent.com/36302181/83339015-f51f2d80-a286-11ea-8696-fe869c5a2e5b.jpeg)
+![brocacafe-_3_](https://user-images.githubusercontent.com/36302181/83339017-f7818780-a286-11ea-9548-450cf6fc2fc4.jpeg)
+![maldehilachas_17_](https://user-images.githubusercontent.com/36302181/83339019-f8b2b480-a286-11ea-9f24-329294814717.jpeg)
+![ojodegallo-_25__1](https://user-images.githubusercontent.com/36302181/83339021-f9e3e180-a286-11ea-9053-5e4ba84b3fda.jpeg)
 
 
