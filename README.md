@@ -285,6 +285,7 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 | No. | Commit | Descripción |
 | ------ | ------ | ------ |
 | 1 | a1edaa059e647656595874664f85f290c4e84f1b  | Modelo Entrenado a un 40% |
+| 2 | 5a56e9595fae79ee9f1e7910a325b4f0ee42a0f1  | Modelo Entrenado |
 
 
 # Detección de Plagas en Cultivo de Café con Modelo a entrenado.
@@ -301,5 +302,6 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 ![brocacafe-_3_](https://user-images.githubusercontent.com/36302181/83339017-f7818780-a286-11ea-9548-450cf6fc2fc4.jpeg)
 ![maldehilachas_17_](https://user-images.githubusercontent.com/36302181/83339019-f8b2b480-a286-11ea-9f24-329294814717.jpeg)
 ![ojodegallo-_25__1](https://user-images.githubusercontent.com/36302181/83339021-f9e3e180-a286-11ea-9053-5e4ba84b3fda.jpeg)
+![Captura de pantalla (643)](https://user-images.githubusercontent.com/36302181/83339083-665ee080-a287-11ea-885f-013c3a48a0c9.png)
 
 
